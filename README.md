@@ -1,5 +1,5 @@
 # ZeroToFrontend
-<mark>Embark on an exciting journey from absolute zero to mastering the art of frontend development!</mark>
+<mark><bold>Embark on an exciting journey from absolute zero to mastering the art of frontend development!</bold></mark>
 <br>
 It is a collection of experiments $ user-friendly web experiences step by step.
 <br>
